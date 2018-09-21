@@ -1,0 +1,2 @@
+webpackJsonp([4],{"3dLS":function(t,e){},taF9:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"product"},[this._v("\n  暂时没有时间开发此页面\n")])},staticRenderFns:[]};var a=n("C7Lr")({name:"Product"},r,!1,function(t){n("3dLS")},"data-v-d21beb80",null);e.default=a.exports}});
+//# sourceMappingURL=4.42b3db39fb4318d28445.js.map

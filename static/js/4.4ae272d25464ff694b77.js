@@ -1,2 +1,0 @@
-webpackJsonp([4],{taF9:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"product"},[this._v("\n  product\n")])},staticRenderFns:[]};var r=n("C7Lr")({name:"Product"},a,!1,function(t){n("vDlL")},"data-v-aa996cae",null);e.default=r.exports},vDlL:function(t,e){}});
-//# sourceMappingURL=4.4ae272d25464ff694b77.js.map

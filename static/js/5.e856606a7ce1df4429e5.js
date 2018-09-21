@@ -1,0 +1,2 @@
+webpackJsonp([5],{"9dvs":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"personal"},[this._v("\n  暂时没有时间开发此页面\n")])},staticRenderFns:[]};var r=t("C7Lr")({name:"Personal"},s,!1,function(e){t("FlDe")},"data-v-4edc582c",null);n.default=r.exports},FlDe:function(e,n){}});
+//# sourceMappingURL=5.e856606a7ce1df4429e5.js.map
