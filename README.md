@@ -1,4 +1,4 @@
-# imooc-mall-github
+# imooc-mall-to-github
 
 #### 项目介绍
 手机慕淘商城app
