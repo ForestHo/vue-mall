@@ -1,4 +1,4 @@
-# imooc-mall
+# imooc-mall-gitee
 
 #### 项目介绍
 手机慕淘商城app
