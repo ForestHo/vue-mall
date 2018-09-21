@@ -56,7 +56,7 @@
 
     &-item {
       height: $tab-item-height;
-      background-color: #fff;
+      background-color: #bgc-theme;
       border-right: 1ps solid $border-color;
       border-bottom: 1px solid $border-color;
       color: #080808;
@@ -71,7 +71,7 @@
       }
     }
     &-item-active {
-      background: none;
+      background: #fff;
       border-right: none;
       color: #f23030;
     }

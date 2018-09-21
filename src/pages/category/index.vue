@@ -53,12 +53,13 @@
     display: flex;
   }
   .sidebar {
-    width: 80px;
+    width: 86px;
     height: 100%;
   }
   .main {
     /*占据剩余宽度*/
     flex: 1;
     height: 100%;
+    background-color: #fff;
   }
 </style>

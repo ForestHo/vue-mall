@@ -10,7 +10,7 @@ const shuffle = (arr) => {
 
   while (i--) {
     if (i !== (rndNum = Math.floor(Math.random() * arrLength))) {
-      /*ES6的解构赋值，来直接交互两个数组的元素*/
+      /*ES6的解构赋值，来直接交换两个数组的元素*/
       [arr[i], arr[rndNum]] = [arr[rndNum], arr[i]];
     }
   }

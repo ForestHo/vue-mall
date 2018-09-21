@@ -177,32 +177,59 @@
     width: 100%;
   }
   .section {
+    margin: 19px 7px 0
     /*display: flex;*/
-    margin-top: 10px;
-    padding: 10px 10px;
+    // margin-top: 10px;
+    // // padding: 10px 10px;
+    // // margin-top: 20px;
+    // // height: 0;
+    // overflow: hidden;
+    // width: 100%;
+    // // padding-bottom: 150%;
+    // background-color: #fff
   }
   .section-list {
-    margin-top: 8px;
-    padding-bottom: 10px;
+    // margin-top: 8px;
+    // padding-bottom: 10px;
+    // // background-color: #fff;
+    // display: flex;
+    // justify-content: flex-start;
+    // align-items: center;
+    // flex-wrap: wrap;
+    border: 0;
+    font-size: 0;
+    padding: 7px 10px 0;
+    overflow: hidden;
+    margin-top: 9px;
     background-color: #fff;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    flex-wrap: wrap;
   }
   .section-title {
+    margin: 0;
+    padding: 0;
+    line-height: 1em;
+    font-weight: 700;
     font-size: 14px;
-    font-weight: bold;
-    color: #000;
-    font-family: 'Arial Black';
+    // font-weight: bold;
+    color: #333;
+    // font-family: 'Arial Black';
   }
   .section-item{
+    width: 32.8%;
+    float: left;
+    text-align: center;
+    // float: left;
+    // width: 36%;
+    // background-color: #fff;
+    // margin-bottom: 8px;
+    // /*margin-right: 8px;*/
+    // margin: 5px 6px;
+  }
+  .section-item:last-child{
+    // background-color: red;
+    // justify-content: flex-end;
+    // align-self: center;
+    // margin-right: auto;
 
-    width: 30%;
-    background-color: #fff;
-    /*margin-bottom: 8px;*/
-    /*margin-right: 8px;*/
-    margin: 5px 6px;
   }
   .section-name {
     text-align: center;
@@ -211,21 +238,23 @@
     display: block;
   }
   .section-pic{
-    position: relative;
-    /*padding-top与margin-top的百分比都是相对于宽度的，而不是相对于高的*/
-    /*以下做法可以做到图片显示为一个正方形的自适应*/
-    width: 100%;
-    padding-top: 100%;
+    // position: relative;
+    // padding-top与margin-top的百分比都是相对于宽度的，而不是相对于高的
+    // /*以下做法可以做到图片显示为一个正方形的自适应*/
+    // width: 100%;
+    // padding-top: 100%;
 
   }
   .content {
-    padding: 10px;
+    // padding: 10px;
   }
   .section-img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    // position: absolute;
+    // top: 0;
+    // left: 0;
+    // width: 100%;
+    // height: 100%;
+    width: 70px;
+    height: 70px;
   }
 </style>
